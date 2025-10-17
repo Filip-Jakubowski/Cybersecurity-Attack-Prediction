@@ -5,7 +5,7 @@ This repository implements a pipeline for predicting cybersecurity attacks from 
 ---
 
 ##  Project Structure
-
+.
 ├── Data Engineering.ipynb # Notebook: full data pipeline (cleaning, feature engineering)
 ├── Modelling.ipynb # Experiments with neural, tree, and ensemble models
 ├── preprocessing.py # Scripted preprocessing logic used in notebooks and app
