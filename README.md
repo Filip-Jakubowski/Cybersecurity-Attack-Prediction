@@ -5,7 +5,7 @@ This repository implements a pipeline for predicting cybersecurity attacks from 
 ---
 
 ##  Project Structure
-<pre> ```text .
+<pre>
 .
 ├── Data Engineering.ipynb # Notebook: full data pipeline (cleaning, feature engineering)
 ├── Modelling.ipynb # Experiments with neural, tree, and ensemble models
@@ -20,7 +20,7 @@ This repository implements a pipeline for predicting cybersecurity attacks from 
 ├── predictions.csv # Resulting predictions on test dataset
 ├── nn_classification_report.txt # Classification report for neural network model
 └── gpu_check.py # Utility to check GPU availability
-   ``` </pre>
+  </pre>
 ---
 
 ##  Data Pipeline
